@@ -46,6 +46,7 @@
     <Compile Include="ConditionalStatements.cs" />
     <Compile Include="DataTypes.cs" />
     <Compile Include="Exercise\EvenOrOdd.cs" />
+    <Compile Include="Exercise\PrintTable.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
