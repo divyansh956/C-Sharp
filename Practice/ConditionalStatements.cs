@@ -11,7 +11,7 @@ namespace Practice
     }
     internal class ConditionalStatements
     {
-        public static void Main(string[] args)
+        void Main(string[] args)
         {
             int hour = 10;
 
