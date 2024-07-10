@@ -4,7 +4,7 @@ namespace Practice
 {
     internal class Loops
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             for (var i = 0; i < 10; i++)
             {
