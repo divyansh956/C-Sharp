@@ -8,7 +8,7 @@ namespace Practice
 {
     internal class DataTypes
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             string textAge = "20";
             int age = 25; // Default type for whole numbers is int
@@ -39,6 +39,12 @@ namespace Practice
             Console.WriteLine("My name is " + name);
             Console.WriteLine(character);
             Console.WriteLine(isTrue);
+
+            var myVar = 10; // Compiler will determine the type
+            Console.WriteLine(myVar);
+
+            const double PI = 3.14159; // Constant value
+            Console.WriteLine(PI);
         }
     }
 }
