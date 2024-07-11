@@ -50,6 +50,7 @@
     <Compile Include="Exercise\PasswordChecker.cs" />
     <Compile Include="Exercise\PrintTable.cs" />
     <Compile Include="Exercise\ReverseString.cs" />
+    <Compile Include="Lists.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
