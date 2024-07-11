@@ -41,6 +41,13 @@ namespace Practice
             Array.Clear(nums, 0, nums.Length); // Clear the array but keep the size
             Array.Clear(nums, 1, 2); // Clear the array from index i to i + size
 
+            var ar = new int[2, 3];
+            var numss = new int[3][];
+            numss[0] = new int[4];
+            numss[1] = new int[5];
+            numss[2] = new int[6];
+
+
         }
     }
 }

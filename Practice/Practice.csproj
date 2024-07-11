@@ -46,7 +46,9 @@
     <Compile Include="Arrays.cs" />
     <Compile Include="ConditionalStatements.cs" />
     <Compile Include="DataTypes.cs" />
+    <Compile Include="Dictionaryy.cs" />
     <Compile Include="Exercise\EvenOrOdd.cs" />
+    <Compile Include="Exercise\OddEvenSpilt.cs" />
     <Compile Include="Exercise\PasswordChecker.cs" />
     <Compile Include="Exercise\PrintTable.cs" />
     <Compile Include="Exercise\ReverseString.cs" />
