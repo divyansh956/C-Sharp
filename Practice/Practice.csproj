@@ -47,10 +47,12 @@
     <Compile Include="DataTypes.cs" />
     <Compile Include="Exercise\EvenOrOdd.cs" />
     <Compile Include="Exercise\PrintTable.cs" />
+    <Compile Include="Exercise\ReverseString.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="String.cs" />
     <Compile Include="TryParse.cs" />
   </ItemGroup>
   <ItemGroup>
