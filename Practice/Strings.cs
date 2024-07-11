@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Practice
 {
-    internal class String
+    internal class Strings
     {
         void Main(string[] args)
         {

@@ -16,7 +16,7 @@ namespace Practice.Exercise
 
             // Another way to reverse a string
             char[] chars = message.ToCharArray();
-            Array.Reverse(chars);
+            chars.Reverse();
             reversedMessage = new string(chars);
             Console.WriteLine(reversedMessage);
 
