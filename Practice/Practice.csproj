@@ -64,6 +64,7 @@
     <Compile Include="Structure.cs" />
     <Compile Include="TryParse.cs" />
     <Compile Include="TypeConversion.cs" />
+    <Compile Include="ValueAndReferenceType.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
