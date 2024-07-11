@@ -8,7 +8,7 @@ namespace Practice
 {
     internal class TypeConversion
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             // Implict type conversion
             byte b = 10;
@@ -28,10 +28,10 @@ namespace Practice
                 byte k = Convert.ToByte(number); // convert string to byte
                 Console.WriteLine(k);
             }
-            catch (Exception)
+            catch (Exception e)
             {
                 Console.WriteLine("The number could not be converted to a byte.");
-                throw;
+                Console.WriteLine(e.Message);
             }
         }
     }
